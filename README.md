@@ -16,7 +16,7 @@ https://pettingzoo.farama.org/environments/mpe/simple_spread/
 ## Step2.运行test.py
 测试完成，在本地生成result1/...文件夹
 
-![image] https://github.com/DaydayXtt/MAPPO-Pettingzoo-simple_spread_v3/blob/main/result1/gif/out2.gif
+![image](https://github.com/DaydayXtt/MAPPO-Pettingzoo-simple_spread_v3/blob/main/result1/gif/out2.gif)
 
 ### detials
 test.py中的相关路径设置在7、8行
