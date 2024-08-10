@@ -11,12 +11,12 @@
 # simple_spread_v3
 https://pettingzoo.farama.org/environments/mpe/simple_spread/
 
-## Step1.运行train.py
-等待训练完成，在本地生成model1/...文件夹
-## Step2.运行test.py
-测试完成，在本地生成result1/...文件夹
+## Step1. run ```train.py```
+```model1/...```
+## Step2. run ```test.py```
+```result1/...```
 
 ![image](https://github.com/DaydayXtt/MAPPO-Pettingzoo-simple_spread_v3/blob/main/result1/gif/out2.gif)
 
 ### detials
-test.py中的相关路径设置在7、8行
+save path setting in line7,8 of ```test.py```
